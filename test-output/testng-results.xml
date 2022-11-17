@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-10T18:23:38 IST" name="Suite" finished-at="2022-08-10T18:23:43 IST" duration-ms="4517">
+    <groups>
+    </groups>
+    <test started-at="2022-08-10T18:23:38 IST" name="Test" finished-at="2022-08-10T18:23:43 IST" duration-ms="4517">
+      <class name="pom.LoginTest">
+        <test-method is-config="true" signature="initBrowsor()[pri:0, instance:pom.LoginTest@2b48a640]" started-at="2022-08-10T18:23:21 IST" name="initBrowsor" finished-at="2022-08-10T18:23:38 IST" duration-ms="16988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowsor -->
+        <test-method is-config="true" signature="creatObject()[pri:0, instance:pom.LoginTest@2b48a640]" started-at="2022-08-10T18:23:38 IST" name="creatObject" finished-at="2022-08-10T18:23:38 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatObject -->
+        <test-method signature="validateLogin()[pri:0, instance:pom.LoginTest@2b48a640]" started-at="2022-08-10T18:23:38 IST" name="validateLogin" finished-at="2022-08-10T18:23:39 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method signature="validateTitle()[pri:0, instance:pom.LoginTest@2b48a640]" started-at="2022-08-10T18:23:39 IST" name="validateTitle" finished-at="2022-08-10T18:23:43 IST" duration-ms="3219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+      </class> <!-- pom.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
